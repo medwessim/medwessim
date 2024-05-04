@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi, I'm Mohamed Wessim Saidani 👋
+
+🌟 Dedicated software developer | Student at ISET Bizerte | Crafting innovative code from Tunis, TN 🚀"
+
+
+![medwessim GitHub stats](https://github-readme-stats.vercel.app/api?username=medwessim&show_icons=true&theme=transparent)
+
 
 <!--
 **medwessim/medwessim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
