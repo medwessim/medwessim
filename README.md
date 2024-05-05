@@ -1,6 +1,7 @@
 <h1 align="center"> Hi  👋, I'm Mohamed Wessim Saidani</h1>
 
-<h4 align="center">🇹🇳 Dedicated software developer | Student at ISET Bizerte | Crafting innovative code from Tunis, TN 🚀</h4>
+<h4 align="center">&#127472;&#127486; Dedicated software developer | Student at ISET Bizerte | Crafting innovative code from Tunis, TN &#128640;</h4>
+
   
 
 
