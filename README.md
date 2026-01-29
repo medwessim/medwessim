@@ -19,8 +19,8 @@
 - **Cloud/Edge Computing in Industry**
 
 ### 🔬 **Research Interests**
+- AI/ML applications 
 - Digital transformation in traditional industries
-- AI/ML applications in manufacturing
 - Sustainable manufacturing technologies
 - Human-machine collaboration in Industry 4.0
 
@@ -50,14 +50,8 @@
 
 ### 🎓 **Academic Journey**
 - **Master's in Industrial Engineering** - École Nationale d'Ingénieurs de Monastir (ENIM)
-- Specializing in **Industry 4.0 & Digital Transformation**
+- Specializing in **Industry 4.0 **
 - Researching smart manufacturing implementations
-
-### 💡 **Skills Development**
-- Industrial automation and control systems
-- Data analytics for manufacturing processes
-- Full-stack development for industrial applications
-- Project management in technical environments
 
 ### 🛠️ **Technologies I Work With**
 <div align="center">
@@ -65,8 +59,8 @@
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?logo=vuedotjs&logoColor=4FC08D)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![React](https://img.shields.io/badge/Python-3776AB?logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Docker-2496ED?logo=nodedotjs&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
 </div>
