@@ -28,19 +28,13 @@ Applying software engineering to industrial innovation:
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=medwessim&show_icons=true&theme=algolia&hide_title=true&count_private=true&include_all_commits=true)
-  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=medwessim&layout=compact&theme=algolia&langs_count=8&hide_title=true)
+
   
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=medwessim&theme=algolia&hide_border=true)
   
 </div>
 
-<div align="center">
-  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=medwessim&theme=algolia&no-frame=true&row=2&column=4)
 
-</div>
 
 ---
 
