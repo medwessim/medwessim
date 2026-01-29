@@ -16,11 +16,10 @@
 - **Background**: Full-Stack Development graduate from **ISET Bizerte**
 
 ### 💻 **Full-Stack Development**
-Building on my ISET Bizerte foundation, I create modern web applications while integrating Industry 4.0 concepts for smart industrial solutions.
+Building on my ISET Bizerte foundation, I create modern web applications.
 
 ### 🏭 **Industry 4.0 Focus**
 Applying software engineering to industrial innovation:
-- Smart Manufacturing Systems
 - IIoT Platforms & Integration
 - Industrial Data Analytics
 - Digital Factory Solutions
