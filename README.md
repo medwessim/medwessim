@@ -9,7 +9,7 @@
 ## 🚀 Professional Profile
 
 ### 🎓 **Education & Specialization**
-- **Current**: Master's in Industrial Engineering at **ENIM** (École Nationale d'Ingénieurs de Monastir)
+- **Current**: Master's in Industrial Engineering at **ENIM** (National Engineering School of Monastir)
 - **Specialization**: **Industry 4.0** & Industrial Digital Transformation
 - **Background**: Full-Stack Development graduate from **ISET Bizerte**
 
