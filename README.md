@@ -2,9 +2,7 @@
 
 <h3 align="center">💻 Full-Stack Developer | 🎓 Master's Student in Industrial Engineering at ENIM</h3>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=2E86C1&center=true&vCenter=true&width=600&lines=ISET+Bizerte+Alumnus;ENIM+Master's+Student;Industry+4.0+Specialist;From+Tunis%2C+TN+🌍" alt="Typing SVG" />
-</div>
+
 
 ---
 
@@ -96,7 +94,7 @@ Applying software engineering to industrial innovation:
 
 <div align="center">
   
-![Visitor Count](https://komarev.com/ghpvc/?username=medwessim&color=blue&style=flat-square)
+
 
 *"Bridging software development with industrial engineering"*  
 💻 **Full-Stack Developer** | 🎓 **ENIM Master's Student - Industry 4.0** | 🏫 **ISET Bizerte Alumnus**  
