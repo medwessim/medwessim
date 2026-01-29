@@ -1,28 +1,29 @@
 # 👋 Hello, I'm Mohamed Wessim Saidani
 
-<h3 align="center">🎓 Industrial 4.0 Master's Student @ ENIM | 💻 Software Developer | 🚀 Future Industry 4.0 Specialist</h3>
+<h3 align="center">💻 Full-Stack Developer | 🎓 Master's Student in Industrial Engineering at ENIM</h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=2E86C1&center=true&vCenter=true&width=600&lines=Digital+Transformation+Enthusiast;IIoT+%26+Smart+Manufacturing;Cyber-Physical+Systems;From+Tunis%2C+TN+🌍" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=2E86C1&center=true&vCenter=true&width=600&lines=ISET+Bizerte+Alumnus;ENIM+Master's+Student;Industry+4.0+Specialist;From+Tunis%2C+TN+🌍" alt="Typing SVG" />
 </div>
 
 ---
 
-## 🎯 Academic & Professional Focus
+## 🚀 Professional Profile
 
-### 🏭 **Industrial 4.0 Domains**
-- **Industrial Internet of Things (IIoT)**
-- **Smart Factory & Digital Twins**
-- **Predictive Maintenance & Analytics**
-- **Industrial Automation Systems**
-- **Manufacturing Process Optimization**
-- **Cloud/Edge Computing in Industry**
+### 🎓 **Education & Specialization**
+- **Current**: Master's in Industrial Engineering at **ENIM** (École Nationale d'Ingénieurs de Monastir)
+- **Specialization**: **Industry 4.0** & Industrial Digital Transformation
+- **Background**: Full-Stack Development graduate from **ISET Bizerte**
 
-### 🔬 **Research Interests**
-- AI/ML applications 
-- Digital transformation in traditional industries
-- Sustainable manufacturing technologies
-- Human-machine collaboration in Industry 4.0
+### 💻 **Full-Stack Development**
+Building on my ISET Bizerte foundation, I create modern web applications while integrating Industry 4.0 concepts for smart industrial solutions.
+
+### 🏭 **Industry 4.0 Focus**
+Applying software engineering to industrial innovation:
+- Smart Manufacturing Systems
+- IIoT Platforms & Integration
+- Industrial Data Analytics
+- Digital Factory Solutions
 
 ---
 
@@ -46,35 +47,49 @@
 
 ---
 
-## 📚 Current Focus
+## 🛠️ Technical Stack
 
-### 🎓 **Academic Journey**
-- **Master's in Industrial Engineering** - École Nationale d'Ingénieurs de Monastir (ENIM)
-- Specializing in **Industry 4.0 **
-- Researching smart manufacturing implementations
-
-### 🛠️ **Technologies I Work With**
+### **Frontend Development**
 <div align="center">
   
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?logo=vuedotjs&logoColor=4FC08D)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white)
-![React](https://img.shields.io/badge/Python-3776AB?logo=react&logoColor=white)
-![Node.js](https://img.shields.io/badge/Docker-2496ED?logo=nodedotjs&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+</div>
+
+### **Backend & Industrial Stack**
+<div align="center">
+  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+
+</div>
+
+### **DevOps & Tools**
+<div align="center">
+  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
 
 ---
 
-## 📫 Connect With Me
+## 🔗 Connect With Me
 
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-Academic-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/your-profile)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/medwessim)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio.com)
 
 </div>
 
@@ -84,8 +99,8 @@
   
 ![Visitor Count](https://komarev.com/ghpvc/?username=medwessim&color=blue&style=flat-square)
 
-*"Shaping the future of manufacturing through digital innovation"*  
-🎓 **École Nationale d'Ingénieurs de Monastir (ENIM)**  
-📍 **Based in Tunisia | Open to research collaboration & industrial projects**
+*"Bridging software development with industrial engineering"*  
+💻 **Full-Stack Developer** | 🎓 **ENIM Master's Student - Industry 4.0** | 🏫 **ISET Bizerte Alumnus**  
+📍 **Tunisia | Open to innovative projects at the intersection of tech and industry**
 
 </div>
