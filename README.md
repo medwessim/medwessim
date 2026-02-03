@@ -1,107 +1,110 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=007BFF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Industry+4.0+Enthusiast;Master's+Student+at+ENIM" alt="Typing SVG" />
-  
-  <h1>Mehdi Benallegue</h1>
-  <p>Full-Stack Developer | Master's in Industrial Engineering (Industry 4.0) at ENIM | Passionate about IIoT, Digital Factories, and Industrial Analytics</p>
-  
-  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/your-twitter" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  
-  <br><br>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="Laravel" width="40" height="40"/> 
-</div>
+<!-- ========================= HEADER ========================= -->
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=32&pause=900&color=2F80ED&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Industrial+Engineering+%28Industry+4.0%29+Master's+Student;IIoT+%7C+Smart+Factories+%7C+Digital+Transformation" alt="Typing SVG" />
+</h1>
+
+<p align="center">
+  <strong>Building bridges between industrial systems and modern software engineering.</strong><br/>
+  ENIM Engineer • Full-Stack Developer • Industry 4.0 Enthusiast
+</p>
+
+<br/>
+
+<!-- ========================= ABOUT ME ========================= -->
+
+## ⭐ About Me
+I’m a **Full-Stack Developer** with a strong engineering foundation, currently pursuing a **Master’s Degree in Industrial Engineering** with a focus on **Industry 4.0 ecosystems**.  
+My work revolves around **connecting the factory floor with smart digital solutions**, from IIoT applications to industrial analytics dashboards.
+
+I enjoy designing scalable architectures, crafting clean UI/UX, and integrating modern technologies into industrial environments.
 
 ---
 
-<div align="center">
-  <h2>🛠️ Skills</h2>
-  <p>Frontend: 
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-    <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js" />
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  </p>
-  <p>Backend: 
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
-    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  </p>
-  <p>Other: 
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-    <img src="https://img.shields.io/badge/IIoT-007BFF?style=for-the-badge&logo=iot&logoColor=white" alt="IIoT" />
-    <img src="https://img.shields.io/badge/Industry%204.0-FF9900?style=for-the-badge&logo=industry&logoColor=white" alt="Industry 4.0" />
-  </p>
-</div>
+<!-- ========================= SKILLS ========================= -->
+
+## 🛠️ Skills & Technologies
+
+### **Frontend**
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff" />
+</p>
+
+### **Backend**
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-3C873A?logo=node.js&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Laravel-E74430?logo=laravel&logoColor=fff" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff" />
+</p>
+
+### **Industrial & Data**
+<p align="center">
+  <img src="https://img.shields.io/badge/IIoT-0A66C2?logo=iot&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Industry%204.0-2F80ED?logo=siemens&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Data%20Analytics-CC0000?logo=apache-spark&logoColor=fff" />
+</p>
 
 ---
 
-<div align="center">
-  <h2>📊 GitHub Stats</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000" alt="GitHub Stats" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=transparent&hide_border=true&bg_color=00000000" alt="Top Languages" width="300" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=transparent&hide_border=true&background=00000000" alt="GitHub Streak" width="400" />
-</div>
+<!-- ========================= CURRENT FOCUS ========================= -->
+
+## 🎯 Current Focus — Industry 4.0 Topics
+- Smart Factory architecture design  
+- IIoT edge/cloud integration  
+- Industrial data pipelines & analytics  
+- MES/MOM digital transformation  
+- Real-time monitoring dashboards  
 
 ---
 
-<div align="center">
-  <h2>🔥 Featured Projects</h2>
-  <table>
-    <tr>
-      <td width="50%">
-        <h3>Project 1: IIoT Dashboard</h3>
-        <p>A real-time dashboard for industrial IoT data analytics using React and Node.js.</p>
-        <a href="https://github.com/your-github-username/project1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=your-github-username&repo=project1&theme=transparent&hide_border=true" alt="Project 1" /></a>
-      </td>
-      <td width="50%">
-        <h3>Project 2: Digital Factory Simulator</h3>
-        <p>Simulation tool for Industry 4.0 factories built with Vue.js and Spring Boot.</p>
-        <a href="https://github.com/your-github-username/project2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=your-github-username&repo=project2&theme=transparent&hide_border=true" alt="Project 2" /></a>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <h3>Project 3: Industrial Analytics API</h3>
-        <p>Backend API for predictive maintenance using Laravel and machine learning.</p>
-        <a href="https://github.com/your-github-username/project3"><img src="https://github-readme-stats.vercel.app/api/pin/?username=your-github-username&repo=project3&theme=transparent&hide_border=true" alt="Project 3" /></a>
-      </td>
-      <td width="50%">
-        <h3>Project 4: Custom Slot</h3>
-        <p>Add your next featured project here.</p>
-        <a href="https://github.com/your-github-username/project4"><img src="https://github-readme-stats.vercel.app/api/pin/?username=your-github-username&repo=project4&theme=transparent&hide_border=true" alt="Project 4" /></a>
-      </td>
-    </tr>
-  </table>
-</div>
+<!-- ========================= FEATURED PROJECTS ========================= -->
+
+## 🚀 Featured Projects
+
+### 🔹 **Digital Factory Monitoring Platform**
+A real-time IIoT dashboard combining machine data, analytics, and alarms visualization.
+
+### 🔹 **Full-Stack Task Automation System**
+Web app built with Vue + Node.js enabling workflow automation and API integrations.
+
+### 🔹 **Industrial Data Visualization Toolkit**
+Python–based toolkit for processing, cleaning, and visualizing manufacturing data.
 
 ---
 
-<div align="center">
-  <h2>🎯 Current Focus</h2>
-  <ul>
-    <li>Exploring IIoT integrations for smart manufacturing 🏭</li>
-    <li>Developing digital twins for industrial processes 🤖</li>
-    <li>Advancing industrial analytics with AI and big data 📈</li>
-    <li>Building scalable full-stack applications for Industry 4.0 solutions 💻</li>
-  </ul>
-</div>
+<!-- ========================= GITHUB METRICS ========================= -->
+
+## 📊 GitHub Insights
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=transparent&hide_border=true" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true" height="140"/>
+</p>
 
 ---
 
-<div align="center">
-  <p><em>Innovating the Future: Bridging Full-Stack Development with Industry 4.0 Excellence</em></p>
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt="Profile Views" />
-</div>
+<!-- ========================= CONTACT ========================= -->
+
+## 📬 Connect With Me
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=fff" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=fff" /></a>
+</p>
+
+---
+
+<!-- ========================= FOOTER ========================= -->
+
+<p align="center">
+  <em>“Engineering the future, one line of code at a time.”</em>
+</p>
