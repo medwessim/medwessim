@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👨‍💻 Mohamed Wessim Saidani
+# 👨‍💻 Mohamed Wassim Saidani
 
 ### <div align="center">🔧 **Full-Stack Developer** & **Industry 4.0 Enthusiast**</div>
 
@@ -15,18 +15,6 @@
 **Specialization:** **Industry 4.0** & Industrial Digital Transformation  
 **Previous:** Full-Stack Development Graduate from **ISET Bizerte**
 
----
-
-## 📈 **GitHub Analytics**
-
-<div align="center">
-  
-![Medwessim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=medwessim&show_icons=true&theme=algolia&hide_border=true&bg_color=00000000)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=medwessim&layout=compact&theme=algolia&hide_border=true&bg_color=00000000)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=medwessim&theme=algolia&hide_border=true)
-  
-</div>
 
 ---
 
@@ -50,7 +38,6 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 </div>
 
@@ -58,8 +45,7 @@
 <div align="center">
   
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![MySQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 </div>
@@ -117,10 +103,9 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/medwessim)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamedwessim)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saidanimohamedwassim@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/medwessim](https://github.com/medwessim))
 
 </div>
 
