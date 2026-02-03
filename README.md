@@ -76,9 +76,7 @@
 
 | Project | Description | Technologies |
 |---------|-------------|--------------|
-| **Industrial Dashboard** | Real-time monitoring dashboard for manufacturing | React, Node.js, WebSocket |
-| **IIoT Data Pipeline** | Data collection and processing for industrial sensors | Python, MQTT, MongoDB |
-| **Digital Twin Prototype** | Virtual representation of production line | Vue.js, Three.js, Spring Boot |
+| **Agriculture Land E-commerce Platform** | AI-powered marketplace with real-time analytics for agricultural land transactions | Next.js, Node.js, MongoDB, Tailwind, WebSocket, Gemma 3 LLM |
 
 </div>
 
