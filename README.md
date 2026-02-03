@@ -118,6 +118,5 @@
 **💻 Full-Stack Developer** | **🎓 ENIM Master's Student - Industry 4.0**  
 **📍 Tunisia** | **Open to collaborative projects at the tech-industry intersection**
 
-![Profile Views](https://komarev.com/ghpvc/?username=medwessim&color=blue&style=flat)
 
 </div>
