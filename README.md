@@ -88,7 +88,6 @@
 
 <div align="center">
 
-🔬 **Researching:** Industrial Digital Twins & Predictive Maintenance  
 🎓 **Master's Thesis:** Data-Driven Optimization in Smart Manufacturing  
 💻 **Developing:** Scalable IIoT middleware architectures  
 📚 **Learning:** Advanced Manufacturing Systems & Industrial AI
@@ -114,7 +113,6 @@
 ### **"Bridging bits with atoms – where software meets the factory floor"**
 
 **💻 Full-Stack Developer** | **🎓 ENIM Master's Student - Industry 4.0**  
-**📍 Tunisia** | **Open to collaborative projects at the tech-industry intersection**
-
+**📍 Tunisia** | **Always building solutions that connect digital innovation with real-world impact**
 
 </div>
