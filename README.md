@@ -1,110 +1,134 @@
-<!-- ========================= HEADER ========================= -->
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0F172A&height=120&section=header&text=&fontSize=0"/>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=32&pause=900&color=2F80ED&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Industrial+Engineering+%28Industry+4.0%29+Master's+Student;IIoT+%7C+Smart+Factories+%7C+Digital+Transformation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Industrial+Engineering+%7C+Industry+4.0;IIoT+%26+Digital+Factories" />
 </h1>
 
 <p align="center">
-  <strong>Building bridges between industrial systems and modern software engineering.</strong><br/>
-  ENIM Engineer • Full-Stack Developer • Industry 4.0 Enthusiast
+  <strong>Full‑Stack Software Engineer</strong> · <strong>Industrial Engineering (Master’s)</strong><br/>
+  <span>Industry 4.0 · IIoT · Digital Transformation · Smart Manufacturing</span>
 </p>
 
 <br/>
 
-<!-- ========================= ABOUT ME ========================= -->
+<img src="https://img.shields.io/badge/ENIM-Industrial%20Engineering-0F172A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Industry%204.0-Digital%20Factories-1E293B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Full--Stack-Engineering-334155?style=for-the-badge"/>
 
-## ⭐ About Me
-I’m a **Full-Stack Developer** with a strong engineering foundation, currently pursuing a **Master’s Degree in Industrial Engineering** with a focus on **Industry 4.0 ecosystems**.  
-My work revolves around **connecting the factory floor with smart digital solutions**, from IIoT applications to industrial analytics dashboards.
-
-I enjoy designing scalable architectures, crafting clean UI/UX, and integrating modern technologies into industrial environments.
+</div>
 
 ---
 
-<!-- ========================= SKILLS ========================= -->
+## 👋 About Me
 
-## 🛠️ Skills & Technologies
+I am a **Full‑Stack Developer** and **Master’s student in Industrial Engineering (Industry 4.0)** with a strong interest in the convergence of **software engineering and smart industrial systems**.
 
-### **Frontend**
-<p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff" />
-</p>
+My work focuses on building **scalable web platforms**, **data‑driven industrial applications**, and **digital factory solutions** that bridge **IT & OT**.
 
-### **Backend**
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-3C873A?logo=node.js&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Laravel-E74430?logo=laravel&logoColor=fff" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff" />
-</p>
-
-### **Industrial & Data**
-<p align="center">
-  <img src="https://img.shields.io/badge/IIoT-0A66C2?logo=iot&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Industry%204.0-2F80ED?logo=siemens&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Data%20Analytics-CC0000?logo=apache-spark&logoColor=fff" />
-</p>
+I’m particularly passionate about:
+- **Industrial IoT (IIoT)**
+- **Digital factories & cyber‑physical systems**
+- **Industrial analytics & decision support systems**
+- **Modern full‑stack architectures**
 
 ---
 
-<!-- ========================= CURRENT FOCUS ========================= -->
+## 🧠 Current Focus — Industry 4.0
 
-## 🎯 Current Focus — Industry 4.0 Topics
-- Smart Factory architecture design  
-- IIoT edge/cloud integration  
-- Industrial data pipelines & analytics  
-- MES/MOM digital transformation  
-- Real-time monitoring dashboards  
+- Smart factory architectures & digital twins  
+- IIoT platforms & real‑time data pipelines  
+- Industrial analytics & performance monitoring  
+- Full‑stack systems for manufacturing execution  
+- Bridging industrial processes with modern software  
 
 ---
 
-<!-- ========================= FEATURED PROJECTS ========================= -->
+## 🛠️ Tech Stack
+
+### 💻 Frontend
+<p>
+  <img src="https://img.shields.io/badge/React-0F172A?style=for-the-badge&logo=react"/>
+  <img src="https://img.shields.io/badge/Vue.js-1E293B?style=for-the-badge&logo=vue.js"/>
+  <img src="https://img.shields.io/badge/TypeScript-334155?style=for-the-badge&logo=typescript"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-475569?style=for-the-badge&logo=tailwindcss"/>
+</p>
+
+### ⚙️ Backend
+<p>
+  <img src="https://img.shields.io/badge/Node.js-0F172A?style=for-the-badge&logo=node.js"/>
+  <img src="https://img.shields.io/badge/Spring-1E293B?style=for-the-badge&logo=spring"/>
+  <img src="https://img.shields.io/badge/Laravel-334155?style=for-the-badge&logo=laravel"/>
+</p>
+
+### 🗄️ Data & Systems
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-0F172A?style=for-the-badge&logo=postgresql"/>
+  <img src="https://img.shields.io/badge/MySQL-1E293B?style=for-the-badge&logo=mysql"/>
+  <img src="https://img.shields.io/badge/MongoDB-334155?style=for-the-badge&logo=mongodb"/>
+</p>
+
+### 🏭 Industry & Tools
+<p>
+  <img src="https://img.shields.io/badge/IIoT-0F172A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Digital%20Factory-1E293B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Industry%204.0-334155?style=for-the-badge"/>
+</p>
+
+---
 
 ## 🚀 Featured Projects
 
-### 🔹 **Digital Factory Monitoring Platform**
-A real-time IIoT dashboard combining machine data, analytics, and alarms visualization.
+### 🔹 Smart Factory Monitoring Platform
+Full‑stack web application for real‑time industrial KPIs, equipment monitoring, and performance analytics.
 
-### 🔹 **Full-Stack Task Automation System**
-Web app built with Vue + Node.js enabling workflow automation and API integrations.
-
-### 🔹 **Industrial Data Visualization Toolkit**
-Python–based toolkit for processing, cleaning, and visualizing manufacturing data.
+**Stack:** React · Node.js · PostgreSQL · IIoT concepts
 
 ---
 
-<!-- ========================= GITHUB METRICS ========================= -->
+### 🔹 Industrial Analytics Dashboard
+Data‑driven dashboard for production analysis, downtime tracking, and decision support.
+
+**Stack:** Vue.js · Spring · SQL · Data Visualization
+
+---
+
+### 🔹 Digital Factory Management System
+Modular system for managing industrial workflows, users, and operational data.
+
+**Stack:** Laravel · REST APIs · MySQL
+
+---
 
 ## 📊 GitHub Insights
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=transparent&hide_border=true" height="150"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true" height="140"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=38BDF8&icon_color=38BDF8" height="160"/>
 
----
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true&title_color=38BDF8" height="160"/>
 
-<!-- ========================= CONTACT ========================= -->
-
-## 📬 Connect With Me
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=fff" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=fff" /></a>
-</p>
+</div>
 
 ---
 
-<!-- ========================= FOOTER ========================= -->
+## 🤝 Let’s Connect
 
-<p align="center">
-  <em>“Engineering the future, one line of code at a time.”</em>
-</p>
+- Collaborations on **Full‑Stack** or **Industry 4.0** projects  
+- Industrial digitalization & IIoT solutions  
+- Smart manufacturing software platforms  
+
+---
+
+<div align="center">
+
+<br/>
+
+<strong>“Engineering the bridge between software and smart industry.”</strong>
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0F172A&height=60&section=footer"/>
+
+</div>
