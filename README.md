@@ -1,134 +1,138 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0F172A&height=120&section=header&text=&fontSize=0"/>
+# 👨‍💻 Mohamed Wessim Saidani
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Industrial+Engineering+%7C+Industry+4.0;IIoT+%26+Digital+Factories" />
-</h1>
+### <div align="center">🔧 **Full-Stack Developer** & **Industry 4.0 Enthusiast**</div>
 
-<p align="center">
-  <strong>Full‑Stack Software Engineer</strong> · <strong>Industrial Engineering (Master’s)</strong><br/>
-  <span>Industry 4.0 · IIoT · Digital Transformation · Smart Manufacturing</span>
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=4A90E2&center=true&vCenter=true&width=500&lines=Building+Digital+Factories;Industrial+IoT+Platforms;Data-Driven+Manufacturing;Full-Stack+Web+Solutions" alt="Typing animation" />
+</div>
 
-<br/>
+---
 
-<img src="https://img.shields.io/badge/ENIM-Industrial%20Engineering-0F172A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Industry%204.0-Digital%20Factories-1E293B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Full--Stack-Engineering-334155?style=for-the-badge"/>
+### 🎓 **Education & Specialization**
+**Master's in Industrial Engineering** at **ENIM** (National Engineering School of Monastir)  
+**Specialization:** **Industry 4.0** & Industrial Digital Transformation  
+**Previous:** Full-Stack Development Graduate from **ISET Bizerte**
+
+---
+
+## 📈 **GitHub Analytics**
+
+<div align="center">
+  
+![Medwessim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=medwessim&show_icons=true&theme=algolia&hide_border=true&bg_color=00000000)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=medwessim&layout=compact&theme=algolia&hide_border=true&bg_color=00000000)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=medwessim&theme=algolia&hide_border=true)
+  
+</div>
+
+---
+
+## 🛠️ **Technical Stack**
+
+### **Frontend Development**
+<div align="center">
+  
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+</div>
+
+### **Backend & Industrial Technologies**
+<div align="center">
+  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+</div>
+
+### **Databases & DevOps**
+<div align="center">
+  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 </div>
 
 ---
 
-## 👋 About Me
-
-I am a **Full‑Stack Developer** and **Master’s student in Industrial Engineering (Industry 4.0)** with a strong interest in the convergence of **software engineering and smart industrial systems**.
-
-My work focuses on building **scalable web platforms**, **data‑driven industrial applications**, and **digital factory solutions** that bridge **IT & OT**.
-
-I’m particularly passionate about:
-- **Industrial IoT (IIoT)**
-- **Digital factories & cyber‑physical systems**
-- **Industrial analytics & decision support systems**
-- **Modern full‑stack architectures**
-
----
-
-## 🧠 Current Focus — Industry 4.0
-
-- Smart factory architectures & digital twins  
-- IIoT platforms & real‑time data pipelines  
-- Industrial analytics & performance monitoring  
-- Full‑stack systems for manufacturing execution  
-- Bridging industrial processes with modern software  
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Frontend
-<p>
-  <img src="https://img.shields.io/badge/React-0F172A?style=for-the-badge&logo=react"/>
-  <img src="https://img.shields.io/badge/Vue.js-1E293B?style=for-the-badge&logo=vue.js"/>
-  <img src="https://img.shields.io/badge/TypeScript-334155?style=for-the-badge&logo=typescript"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-475569?style=for-the-badge&logo=tailwindcss"/>
-</p>
-
-### ⚙️ Backend
-<p>
-  <img src="https://img.shields.io/badge/Node.js-0F172A?style=for-the-badge&logo=node.js"/>
-  <img src="https://img.shields.io/badge/Spring-1E293B?style=for-the-badge&logo=spring"/>
-  <img src="https://img.shields.io/badge/Laravel-334155?style=for-the-badge&logo=laravel"/>
-</p>
-
-### 🗄️ Data & Systems
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-0F172A?style=for-the-badge&logo=postgresql"/>
-  <img src="https://img.shields.io/badge/MySQL-1E293B?style=for-the-badge&logo=mysql"/>
-  <img src="https://img.shields.io/badge/MongoDB-334155?style=for-the-badge&logo=mongodb"/>
-</p>
-
-### 🏭 Industry & Tools
-<p>
-  <img src="https://img.shields.io/badge/IIoT-0F172A?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Digital%20Factory-1E293B?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Industry%204.0-334155?style=for-the-badge"/>
-</p>
-
----
-
-## 🚀 Featured Projects
-
-### 🔹 Smart Factory Monitoring Platform
-Full‑stack web application for real‑time industrial KPIs, equipment monitoring, and performance analytics.
-
-**Stack:** React · Node.js · PostgreSQL · IIoT concepts
-
----
-
-### 🔹 Industrial Analytics Dashboard
-Data‑driven dashboard for production analysis, downtime tracking, and decision support.
-
-**Stack:** Vue.js · Spring · SQL · Data Visualization
-
----
-
-### 🔹 Digital Factory Management System
-Modular system for managing industrial workflows, users, and operational data.
-
-**Stack:** Laravel · REST APIs · MySQL
-
----
-
-## 📊 GitHub Insights
+## 🏭 **Industry 4.0 Focus Areas**
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=38BDF8&icon_color=38BDF8" height="160"/>
+![IIoT](https://img.shields.io/badge/IIoT-Platforms-4A90E2?style=flat-square&logo=connected-tv)
+![Industrial Analytics](https://img.shields.io/badge/Industrial-Analytics-00C7B7?style=flat-square&logo=chart-line)
+![Digital Factory](https://img.shields.io/badge/Digital-Factory-7B42BC?style=flat-square&logo=factory)
+![Industrial Simulation](https://img.shields.io/badge/Industrial-Simulation-FF6B6B?style=flat-square&logo=codepen)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true&title_color=38BDF8" height="160"/>
+</div>
+
+- **IIoT Platforms & Integration** – Connecting industrial assets to digital ecosystems
+- **Industrial Data Analytics** – Extracting insights from manufacturing data
+- **Digital Factory Solutions** – Virtual representations of physical systems
+- **Industrial Automation Software** – Bridging OT and IT systems
+
+---
+
+## 🚀 **Featured Projects**
+
+<div align="center">
+
+| Project | Description | Technologies |
+|---------|-------------|--------------|
+| **Industrial Dashboard** | Real-time monitoring dashboard for manufacturing | React, Node.js, WebSocket |
+| **IIoT Data Pipeline** | Data collection and processing for industrial sensors | Python, MQTT, MongoDB |
+| **Digital Twin Prototype** | Virtual representation of production line | Vue.js, Three.js, Spring Boot |
+
+</div>
+
+*More projects available on my [GitHub repositories](https://github.com/medwessim?tab=repositories)*
+
+---
+
+## 📍 **Current Focus**
+
+<div align="center">
+
+🔬 **Researching:** Industrial Digital Twins & Predictive Maintenance  
+🎓 **Master's Thesis:** Data-Driven Optimization in Smart Manufacturing  
+💻 **Developing:** Scalable IIoT middleware architectures  
+📚 **Learning:** Advanced Manufacturing Systems & Industrial AI
 
 </div>
 
 ---
 
-## 🤝 Let’s Connect
+## 📫 **Connect With Me**
 
-- Collaborations on **Full‑Stack** or **Industry 4.0** projects  
-- Industrial digitalization & IIoT solutions  
-- Smart manufacturing software platforms  
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/medwessim)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio.com)
+
+</div>
 
 ---
 
 <div align="center">
 
-<br/>
+### **"Bridging bits with atoms – where software meets the factory floor"**
 
-<strong>“Engineering the bridge between software and smart industry.”</strong>
+**💻 Full-Stack Developer** | **🎓 ENIM Master's Student - Industry 4.0**  
+**📍 Tunisia** | **Open to collaborative projects at the tech-industry intersection**
 
-<br/><br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0F172A&height=60&section=footer"/>
+![Profile Views](https://komarev.com/ghpvc/?username=medwessim&color=blue&style=flat)
 
 </div>
