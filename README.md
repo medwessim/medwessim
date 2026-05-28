@@ -2,7 +2,7 @@
 
 # 👨‍💻 Mohamed Wassim Saidani
 
-### <div align="center">🔧 **Full-Stack Developer** & **Industry 4.0 Enthusiast**</div>
+### <div align="center">🔧 **Full-Stack Developer** & **Industry 4.0 Engineering @ENIM**</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=4A90E2&center=true&vCenter=true&width=500&lines=Building+Digital+Factories;Industrial+IoT+Platforms;Data-Driven+Manufacturing;Full-Stack+Web+Solutions" alt="Typing animation" />
