@@ -7,7 +7,10 @@
   ║     (same as your username) so GitHub shows it on your profile.    ║
   ║  2. The contribution-snake animation needs a free GitHub Action.   ║
   ║     See the instructions at the very bottom of this file.          ║
-  ║  3. All stats/badges auto-update — no maintenance needed.          ║
+  ║  3. Stats/streak badges auto-update — no maintenance needed.       ║
+  ║  4. Trophy badge removed — its Vercel host was rate-limited/        ║
+  ║     paused. Re-add later if the service comes back, or self-host   ║
+  ║     it the same way as the snake (Action-generated SVG).           ║
   ╚══════════════════════════════════════════════════════════════════╝
 -->
 
@@ -41,7 +44,7 @@
 class MohamedWassim:
     def __init__(self):
         self.role        = "Industry 4.0 Engineer & AI / Computer Vision Developer"
-        self.education   = "M.Eng. Industrial Engineering — Industry 4.0 @ ENIM (ranked 2nd)"
+        self.education   = "M.Eng. Industrial Engineering — Industry 4.0 @ ENIM"
         self.foundation  = "Full-Stack Software Engineering (ISET Bizerte)"
         self.focus       = ["AI / Machine Learning", "Computer Vision", "Industrial IoT", "Digital Twins"]
         self.mission     = "Bridging bits with atoms — where software meets the factory floor"
@@ -51,7 +54,9 @@ class MohamedWassim:
         return "Data-driven optimization & intelligent vision for smart manufacturing"
 ```
 
-I started in **software engineering** (coding, algorithms, databases) and moved into **Industry 4.0**, where that foundation became my edge: I build the **AI, computer-vision, and IoT systems** that turn physical factories into intelligent, data-driven ones. Currently ranked **2nd in my Master's class** at ENIM and serving as **President of the IEEE ISET Bizerte Student Branch**.
+> 🏅 **Ranked 2nd of my Master's cohort (Year 1, Industry 4.0 @ ENIM)**
+
+I started in **software engineering** (coding, algorithms, databases) and moved into **Industry 4.0**, where that foundation became my edge: I build the **AI, computer-vision, and IoT systems** that turn physical factories into intelligent, data-driven ones.
 
 ---
 
@@ -165,10 +170,6 @@ ESP32-based system integrating a motor and LCD display for real-time monitoring 
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=medwessim&hide_border=true&background=0D1117&stroke=4A90E2&ring=4A90E2&fire=FF6B6B&currStreakLabel=4A90E2" alt="streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=medwessim&theme=onedark&no-frame=true&column=7&margin-w=8" alt="trophies" />
 </div>
 
 <!-- Contribution snake — see setup instructions at bottom of file -->
