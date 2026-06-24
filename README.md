@@ -168,14 +168,7 @@ ESP32-based system integrating a motor and LCD display for real-time monitoring 
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=medwessim&layout=compact&hide_border=true&title_color=4A90E2&text_color=ffffff&bg_color=0D1117&langs_count=8" alt="top langs" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=medwessim&hide_border=true&background=0D1117&stroke=4A90E2&ring=4A90E2&fire=FF6B6B&currStreakLabel=4A90E2" alt="streak" />
-</div>
 
-<!-- Contribution snake — see setup instructions at bottom of file -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/medwessim/medwessim/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</div>
 
 ---
 
